@@ -1,6 +1,6 @@
 {
-    "name": "landing_flutter",
-    "short_name": "landing_flutter",
+    "name": "zorakdev_hello_world",
+    "short_name": "zorakdev_hello_world",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
