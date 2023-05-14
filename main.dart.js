@@ -54196,7 +54196,7 @@ O(a){var s=null
 return new A.qk(new A.z2(s),"Hello World App",A.a7m(s,B.eZ,s,A.a7z(A.jJ())),s)}}
 A.z2.prototype={
 O(a){var s=null,r=t.nA
-return new A.rw(new A.oq(B.HV,new A.H1(s,s,1/0,56),s),A.iH(s,A.Lw(A.oS(A.b([B.I0,A.hX(s,20,s),A.iH(s,B.I1,s,new A.aL(0,600,0,1/0),s,s,s,s,s),B.DJ,A.oS(A.b([A.yg(B.HZ,new A.OZ()),B.cr,A.iH(s,B.I2,s,B.bD,s,s,s,s,s),A.hX(s,20,s)],r),B.bj),A.oS(A.b([A.yg(B.I5,new A.P_()),B.cr,A.iH(s,B.I_,s,B.bD,s,s,s,s,s),A.hX(s,20,s)],r),B.bj),A.oS(A.b([A.yg(B.I3,new A.P0()),B.cr,A.iH(s,B.I6,s,B.bD,s,s,s,s,s),A.hX(s,20,s)],r),B.bj),A.oS(A.b([A.yg(B.HX,new A.P1()),B.cr,A.iH(s,B.I4,s,B.bD,s,s,s,s,s),A.hX(s,20,s)],r),B.bj),A.oS(A.b([A.yg(B.HY,new A.P2()),B.cr,A.iH(s,B.HW,s,B.bD,s,s,s,s,s),A.hX(s,20,s)],r),B.bj)],r),B.Av),s,s),s,s,B.u0,s,s,s,s),s)}}
+return new A.rw(new A.oq(B.HV,new A.H1(s,s,1/0,56),s),A.iH(s,A.Lw(A.oS(A.b([B.I1,A.hX(s,20,s),A.iH(s,B.HZ,s,new A.aL(0,600,0,1/0),s,s,s,s,s),B.DJ,A.oS(A.b([A.yg(B.I_,new A.OZ()),B.cr,A.iH(s,B.I2,s,B.bD,s,s,s,s,s),A.hX(s,20,s)],r),B.bj),A.oS(A.b([A.yg(B.I5,new A.P_()),B.cr,A.iH(s,B.I0,s,B.bD,s,s,s,s,s),A.hX(s,20,s)],r),B.bj),A.oS(A.b([A.yg(B.I3,new A.P0()),B.cr,A.iH(s,B.I6,s,B.bD,s,s,s,s,s),A.hX(s,20,s)],r),B.bj),A.oS(A.b([A.yg(B.HX,new A.P1()),B.cr,A.iH(s,B.I4,s,B.bD,s,s,s,s,s),A.hX(s,20,s)],r),B.bj),A.oS(A.b([A.yg(B.HY,new A.P2()),B.cr,A.iH(s,B.HW,s,B.bD,s,s,s,s,s),A.hX(s,20,s)],r),B.bj)],r),B.Av),s,s),s,s,B.u0,s,s,s,s),s)}}
 A.OZ.prototype={
 $0(){var s=0,r=A.V(t.H)
 var $async$$0=A.W(function(a,b){if(a===1)return A.S(b,r)
@@ -57901,12 +57901,12 @@ B.HW=new A.d1("",null,B.cy,null,null)
 B.cx=new A.o(!0,null,null,"Press Start 2P",null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.HX=new A.d1("Zorak's Audio",null,B.cx,null,null)
 B.HY=new A.d1("LinkedIn",null,B.cx,null,null)
-B.HZ=new A.d1("Zorak's Strategy",null,B.cx,null,null)
-B.I_=new A.d1("A personal project in development of a mobile game of questions about movie images. My first own app for Android to which I am putting a lot of love and taking the opportunity to learn about various techniques and implement various technologies.",null,B.cy,null,null)
-B.EV=new A.o(!0,B.h,null,"Pixelart",null,null,36,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.im,null,null,null)
-B.I0=new A.d1("Hello World!",null,B.EV,null,null)
 B.GF=new A.o(!0,B.h,null,null,null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.I1=new A.d1("Hello, my name is Eduardo (AKA Zorak), I am a crypto trader, Pine Script developer for TradingView and jr. Flutter developer. While I build my website I leave you here some links of my projects :)",null,B.GF,null,null)
+B.HZ=new A.d1("Hello, my name is Eduardo (AKA Zorak), I am a crypto trader, Pine Script developer for TradingView and jr. Flutter app developer. While I build my website I leave you here some links of my projects :)",null,B.GF,null,null)
+B.I_=new A.d1("Zorak's Strategy",null,B.cx,null,null)
+B.I0=new A.d1("A personal project in development of a mobile game of questions about movie images. My first own app for Android to which I am putting a lot of love and taking the opportunity to learn about various techniques and implement various technologies.",null,B.cy,null,null)
+B.EV=new A.o(!0,B.h,null,"Pixelart",null,null,36,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.im,null,null,null)
+B.I1=new A.d1("Hello World!",null,B.EV,null,null)
 B.I2=new A.d1("Zorak's Strategy, the bot that I am proud of, my own bot that automates trading with a strategy of my creation from years of trading experience. You can see the backtesting on TradingView.",null,B.cy,null,null)
 B.I3=new A.d1("Movie Whisper",null,B.cx,null,null)
 B.I4=new A.d1("Concept of a web design with CSS and JavaScript that will be the starting point for the landing page of my trading bot.",null,B.cy,null,null)
